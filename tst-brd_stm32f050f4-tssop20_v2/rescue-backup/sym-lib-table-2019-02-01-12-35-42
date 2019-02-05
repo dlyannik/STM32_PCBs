@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name tst-brd_stm32f050f4-tssop20-rescue)(type Legacy)(uri ${KIPRJMOD}/tst-brd_stm32f050f4-tssop20-rescue.lib)(options "")(descr ""))
+  (lib (name mcu)(type Legacy)(uri /home/alex/works/kicad/LIB/mcu.lib)(options "")(descr ""))
+  (lib (name USER_LIB)(type Legacy)(uri /home/alex/works/kicad/LIB/USER_LIB.lib)(options "")(descr ""))
+)

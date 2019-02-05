@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tst_brd_stm32f103_lqfp64_v2-rescue)(type Legacy)(uri ${KIPRJMOD}/tst_brd_stm32f103_lqfp64_v2-rescue.lib)(options "")(descr ""))
+  (lib (name USER_LIB)(type Legacy)(uri /home/alex/works/kicad/LIB/USER_LIB.lib)(options "")(descr ""))
+)

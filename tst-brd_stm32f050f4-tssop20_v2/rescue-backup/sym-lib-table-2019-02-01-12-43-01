@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tst-brd_stm32f050f4-tssop20-rescue)(type Legacy)(uri ${KIPRJMOD}/tst-brd_stm32f050f4-tssop20-rescue.lib)(options "")(descr ""))
+)
